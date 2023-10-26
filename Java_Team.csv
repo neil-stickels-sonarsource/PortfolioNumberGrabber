@@ -1,0 +1,5 @@
+Java_Team,Bugs,,,Vulnerabilities
+,Blocker,Critical,Major,Blocker,Critical,Major
+GitLab-CI / monorepo Gradle,0,0,0,0,0,0
+GitLab-CI / monorepo Maven,0,0,0,0,2,0
+JMonitoringApp,651,243,289,1153,0,106
