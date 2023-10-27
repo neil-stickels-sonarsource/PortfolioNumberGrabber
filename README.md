@@ -1,4 +1,6 @@
 # PortfolioNumberGrabber
+Note: using this requires SonarQube 9.1 or higher, as one of the APIs used was introduced in that release.
+
 Helper to call the SonarQube API and generate a count of issues for all of the Projects within a specified Portfolio
 
 Precompiled executable PortfolioNumberGenerator.jar is provided.  To run this:
